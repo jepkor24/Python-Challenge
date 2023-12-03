@@ -1,6 +1,4 @@
 # Python-Challenge
-# Python-Challenge
-
 PyBank challenge: calculate the following items
 The total number of months included in the dataset
     calculate how many lines are in the file
